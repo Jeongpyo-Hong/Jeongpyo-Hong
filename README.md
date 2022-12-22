@@ -2,6 +2,10 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=250&section=header&text=Jeongpyo%20Hong&fontSize=60&fontAlignY=40" />
 </div>
 
+<!-- 한 줄 소개 -->
+### <div align=center>"조경가에서 개발자로, 주체적 삶을 살아가는 개발자입니다."</div>
+<br/><br/>
+
 <!-- 기술 스택 -->
 ### <div align=center color=purple>**_Tech Stack_**</div>
 <div align=center>
