@@ -21,4 +21,9 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</div><br />
+
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongpyo-Hong&layout=compact&card_width=445"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeongpyo-Hong&show_icons=true">
 </div>
