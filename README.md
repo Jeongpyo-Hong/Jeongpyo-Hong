@@ -6,6 +6,13 @@
 ### <div align=center>"조경가에서 개발자로, 주체적 삶을 살아가는 개발자입니다."</div>
 <br/><br/>
 
+<!-- 링크 -->
+### <div align=center color=purple>**_Follow Me_**</div>
+<div align=center>
+  <a href="https://velog.io/@hjeongpyo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+  <a href="https://bit.ly/3BI3Ian" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+</div>
+
 <!-- 기술 스택 -->
 ### <div align=center color=purple>**_Tech Stack_**</div>
 <div align=center>
@@ -34,11 +41,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongpyo-Hong&layout=compact&card_width=445"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jeongpyo-Hong&show_icons=true">
 </div><br />
-
-<!-- 링크 -->
-### <div align=center color=purple>**_Follow Me_**</div>
-<div align=center>
-  <a href="https://velog.io/@hjeongpyo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
-  <a href="https://bit.ly/3BI3Ian" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-</div>
-
