@@ -41,3 +41,4 @@
   <a href="https://velog.io/@hjeongpyo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
   <a href="https://bit.ly/3BI3Ian" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
+
