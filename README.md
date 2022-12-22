@@ -1,6 +1,8 @@
+<!-- 헤더 -->
 <div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=250&section=header&text=Pyojeong%20Github&fontSize=70&fontAlignY=40" />
 </div>
 
+<!-- 기술 스택 -->
 ### <div align=center color=purple>**_Tech Stack_**</div>
 <div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -23,7 +25,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div><br />
 
+<!-- 사용언어 / 깃헙 스탯 -->
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongpyo-Hong&layout=compact&card_width=445"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Jeongpyo-Hong&show_icons=true">
+</div><br />
+
+<!-- 링크 -->
+<div align=center>
+<a href="https://velog.io/@hjeongpyo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+<a href="https://bit.ly/3BI3Ian" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
