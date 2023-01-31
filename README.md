@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=230&section=header&text=Jeongpyo's%20Github&fontSize=50&fontAlignY=35" />
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=230&section=header&text=console.log("Jeongpyo Hong")&fontSize=50&fontAlignY=35" />
 </div>
 
 <!-- 한 줄 소개 -->
