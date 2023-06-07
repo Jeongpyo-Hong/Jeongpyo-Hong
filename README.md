@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 </div>
 
 <!-- 배우고 있는 기술 스택 -->
-### <div align=center color=purple>**_Learning_**</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
-</div><br /><br/><br/>
+<!-- ### <div align=center color=purple>**_Learning_**</div> -->
+<!-- <div align=center> -->
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> -->
+<!-- </div><br /><br/><br/> -->
 
 <!-- 사용언어 / 깃헙 스탯 -->
 <div align=center>
