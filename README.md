@@ -42,7 +42,7 @@
 <!-- ### <div align=center color=purple>**_Learning_**</div> -->
 <!-- <div align=center> -->
 <!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> -->
-<!-- </div><br /><br/><br/> -->
+</div><br /><br/><br/>
 
 <!-- 사용언어 / 깃헙 스탯 -->
 <div align=center>
