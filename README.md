@@ -41,7 +41,7 @@
 <!-- 배우고 있는 기술 스택 -->
 ### <div align=center color=purple>**_Learning_**</div>
 <div align=center>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div><br /><br/><br/>
 
 <!-- 사용언어 / 깃헙 스탯 -->
