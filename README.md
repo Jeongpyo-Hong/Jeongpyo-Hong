@@ -47,6 +47,6 @@
 
 <!-- 사용언어 / 깃헙 스탯 -->
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeongpyo-Hong&show_icons=true"><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongpyo-Hong&layout=compact&card_width=445">
+  <img src="https://github-readme-stats-jeongpyo-hong.vercel.app/api?username=Jeongpyo-Hong&show_icons=true"><br/><br/>
+  <img src="https://github-readme-stats-jeongpyo-hong.vercel.app/api/top-langs/?username=Jeongpyo-Hong&layout=compact&card_width=445">
 </div><br />
